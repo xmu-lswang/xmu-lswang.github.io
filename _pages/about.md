@@ -8,7 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the front page of a website that is powered by the [academicpages template]
+博士毕业于香港中文大学。现为厦门大学信息科学与技术学院计算机系副教授。
+
+主要研究方向：
+
+数据挖掘、大数据应用、机器学习和深度学习，以及在医学数据、金融数据分析中的应用
+
+ 
+
+研究组常年招收本科生、硕士研究生，以及博士后。欢迎感兴趣的同学邮件联系。
+
+ 
+
+工作地址:
+
+福建省 厦门市 思明区 厦门大学 海韵园 信息科学与技术学院 计算机系  邮编：361005
+
+Email: lswang@xmu.edu.cn
 
 A data-driven personal website
 ======
