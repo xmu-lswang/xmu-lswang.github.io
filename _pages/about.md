@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,24 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template]
-博士毕业于香港中文大学。现为厦门大学信息科学与技术学院计算机系副教授。
+
+王连生老师毕业于香港中文大学。现为厦门大学信息科学与技术学院计算机系副教授。
 
 主要研究方向：
 
-数据挖掘、大数据应用、机器学习和深度学习，以及在医学数据、金融数据分析中的应用
+机器学习、深度学习、数据挖掘、大数据应用，以及在医学数据、金融数据分析中的应用。
 
- 
 
 研究组常年招收本科生、硕士研究生，以及博士后。欢迎感兴趣的同学邮件联系。
 
- 
+Email: lswang@xmu.edu.cn
 
 工作地址:
+福建省 厦门市 思明区 厦门大学 海韵园 信息学院 计算机系  邮编：361005
 
-福建省 厦门市 思明区 厦门大学 海韵园 信息科学与技术学院 计算机系  邮编：361005
 
-Email: lswang@xmu.edu.cn
 
 A data-driven personal website
 ======
