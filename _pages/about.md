@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-王连生老师毕业于香港中文大学。现为厦门大学信息科学与技术学院计算机系副教授。
+王连生老师毕业于香港中文大学。现为厦门大学信息学院计算机系副教授。
 
 主要研究方向：
 
@@ -20,12 +20,14 @@ redirect_from:
 
 Email: lswang@xmu.edu.cn
 
+---
 工作地址:
-福建省 厦门市 思明区 厦门大学 海韵园 信息学院 计算机系  邮编：361005
+福建省 厦门市 思明区 厦门大学 海韵园 信息学院 计算机系  
+邮编：361005
+---
 
 
-
-A data-driven personal website
+% A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
