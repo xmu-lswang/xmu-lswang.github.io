@@ -1,5 +1,5 @@
 ---
-title: "WEAKLY-SUPERVISED BALANCED ATTENTION NETWORK for Gastric PATHOLOGy image LOCALIZATION and classification"
+title: "Weakly-supervised Balanced Attention Network for Gastric Pathology Image Localization and Classification"
 collection: publications
 # permalink: /publication/2015-10-01-paper-title-number-3
 # excerpt: ''
