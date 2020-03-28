@@ -32,6 +32,8 @@ NEWS
 ======
 ✔️ 两名硕士生入选2020年度腾讯犀牛鸟精英计划！
 
+✔️ 一篇论文被顶级期刊Medical Image Analysis接收！
+
 ✔️ 一篇论文被CVPR2020接收！
 
 ✔️ 在ICIAR2020国际会议LNDb Challenge中获一项第一！
