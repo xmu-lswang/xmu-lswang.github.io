@@ -42,7 +42,7 @@ NEWS
 
 ✔️ 在SegTHOR Challenge 2019 (Segmentation of Thoracic Organs at Risk in CT Images)中获得三项第一！
 
-✔️ 一名硕士生入选2020年度腾讯犀牛鸟精英计划！
+✔️ 一名硕士生入选2019年度腾讯犀牛鸟精英计划！
 
 ✔️ 在国际LiTS (Liver Tumor Segmentation Challenge）中获得两项第一！
 
