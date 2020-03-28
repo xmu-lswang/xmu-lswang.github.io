@@ -1,7 +1,7 @@
 ---
 title: "LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation"
 collection: publications
-# permalink: /publication/2015-10-01-paper-title-number-3
+# permalink: 
 # excerpt: ''
 date: 2020-03-01
 venue: 'CVPR'
