@@ -38,7 +38,7 @@ NEWS
 
 ✔️ 一篇论文被顶级期刊Medical Image Analysis接收！
 
-✔️ 一篇论文被CVPR2020接收！
+✔️ 一篇论文被顶级会议CVPR2020接收！
 
 ✔️ 在ICIAR2020国际会议LNDb Challenge中获一项第一！
 
@@ -48,7 +48,7 @@ NEWS
 
 ✔️ 在SegTHOR Challenge 2019 (Segmentation of Thoracic Organs at Risk in CT Images)中获得三项第一！
 
-✔️ 一名硕士生入选2019年度腾讯犀牛鸟精英计划！
+✔️ 一名学生入选2019年度腾讯犀牛鸟精英计划！
 
 ✔️ 在国际LiTS (Liver Tumor Segmentation Challenge）中获得两项第一！
 
