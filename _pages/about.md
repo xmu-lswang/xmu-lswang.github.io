@@ -30,7 +30,11 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
-✔️ 两名硕士生入选2020年度腾讯犀牛鸟精英计划！
+✔️ 一篇论文被期刊IEEE Transactions on Circuits and Systems for Video Technology接收！
+
+✔️ 一名学生获得厦门大学校级奖学金！
+
+✔️ 两名学生入选2020年度腾讯犀牛鸟精英计划！
 
 ✔️ 一篇论文被顶级期刊Medical Image Analysis接收！
 
