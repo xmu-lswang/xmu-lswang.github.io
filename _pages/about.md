@@ -30,6 +30,8 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 两篇论文被MICCAI2020接收！
+
 ✔️ 一篇论文被MICCAI2020提前接收！
 
 ✔️ 一篇论文被期刊IEEE Transactions on Circuits and Systems for Video Technology接收！
