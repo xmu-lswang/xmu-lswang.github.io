@@ -30,6 +30,8 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇论文被IEEE Transactions on Medical Imaging接收！
+
 ✔️ 两篇论文被MICCAI2020接收！
 
 ✔️ 一篇论文被MICCAI2020提前接收！
