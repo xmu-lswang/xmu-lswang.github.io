@@ -30,6 +30,12 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇论文被Briefings in Bioinformatics接收！
+
+✔️ 三篇论文被ISBI2021接收！
+
+✔️ 两篇论文被期刊Medical Image Analysis接收！
+
 ✔️ 一篇论文被AAAI2021接收！
 
 ✔️ 一篇论文被IEEE Transactions on Medical Imaging接收！
