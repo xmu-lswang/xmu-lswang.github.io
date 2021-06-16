@@ -30,6 +30,10 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 六篇论文被医学影像顶会MICCAI2021接收（其中四篇提前接收，2篇rebuttal后接收）！
+
+✔️ 一篇论文被期刊Medical Image Analysis接收！
+
 ✔️ 四篇论文被MICCAI2021提前接收！
 
 ✔️ 一篇论文被期刊Medical Image Analysis接收！
