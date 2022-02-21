@@ -30,6 +30,8 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇论文被Nature Machine Intelligence接收！
+
 ✔️ 三篇论文被AAAI2022接收！
 
 ✔️ 一篇论文被期刊IEEE JBHI接收！
