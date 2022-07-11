@@ -30,6 +30,20 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇论文被ECCV 2022接收！
+
+✔️ 五篇论文被医学影像顶会MICCAI2022接收！
+
+✔️ 一篇论文被期刊Medical Image Analysis接收！
+
+✔️ 一名学生入选2022年度腾讯犀牛鸟精英计划！
+
+✔️ 一篇合作论文被期刊Nature Communications接收！
+
+✔️ 一篇论文被期刊Patterns (Cell) 接收！
+
+✔️ 一篇论文被期刊IEEE Transactions on Medical Imaging接收！
+
 ✔️ 一篇论文被Nature Machine Intelligence接收！
 
 ✔️ 三篇论文被AAAI2022接收！
