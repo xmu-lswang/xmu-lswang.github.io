@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-王连生老师毕业于香港中文大学。现为厦门大学信息学院计算机系副教授、博士生导师。
+王连生老师毕业于香港中文大学。现为厦门大学信息学院计算机系教授、博士生导师。
 
 主要研究方向：
 
@@ -30,6 +30,18 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇论文被ICLR2023接收！
+
+✔️ 两篇论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 一篇论文被AAAI 2023接收！
+
+✔️ 一篇论文被期刊IEEE Transactions on Cybernetics (T-CYB)接收！
+
+✔️ 一篇论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 一篇论文被Gastrointestinal Endoscopy (GIE)接收！
+
 ✔️ 一篇论文被ECCV 2022接收！
 
 ✔️ 五篇论文被医学影像顶会MICCAI2022接收！
