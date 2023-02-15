@@ -1,332 +1,311 @@
-bplist00�_WebMainResource�	
-_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameNameO��<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2022.2">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Courier; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Courier; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
-    span.s1 {font-kerning: none}
-    span.s2 {font: 12.0px 'PingFang SC'; font-kerning: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;pre style="word-wrap: break-word; white-space: pre-wrap;"&gt;# Welcome to Jekyll!</span></p>
-<p class="p1"><span class="s1">#</span></p>
-<p class="p1"><span class="s1"># This config file is meant for settings that affect your entire site, values</span></p>
-<p class="p1"><span class="s1"># which you are expected to set up once and rarely need to edit after that.</span></p>
-<p class="p1"><span class="s1"># For technical reasons, this file is *NOT* reloaded automatically when you use</span></p>
-<p class="p1"><span class="s1"># `jekyll serve`. If you change this file, please restart the server process.</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Site Settings</span></p>
-<p class="p1"><span class="s1">locale <span class="Apple-converted-space">                  </span>: "en-US"</span></p>
-<p class="p1"><span class="s1">title<span class="Apple-converted-space">                    </span>: "MEDA / Group"</span></p>
-<p class="p1"><span class="s1">title_separator<span class="Apple-converted-space">          </span>: "-"</span></p>
-<p class="p1"><span class="s1">name <span class="Apple-converted-space">                    </span>: &amp;amp;name "Your Name"</span></p>
-<p class="p1"><span class="s1">description<span class="Apple-converted-space">              </span>: &amp;amp;description "personal description"</span></p>
-<p class="p1"><span class="s1">url<span class="Apple-converted-space">                      </span>: https://xmu-lswang.github.io # the base hostname &amp;amp; protocol for your site e.g. "https://mmistakes.github.io"</span></p>
-<p class="p1"><span class="s1">baseurl<span class="Apple-converted-space">                  </span>: "" # the subpath of your site, e.g. "/blog"</span></p>
-<p class="p1"><span class="s1">repository <span class="Apple-converted-space">              </span>: "xmu-lswang/xmu-lswang.github.io"</span></p>
-<p class="p1"><span class="s1">teaser <span class="Apple-converted-space">                  </span>:<span class="Apple-converted-space">  </span># filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"</span></p>
-<p class="p1"><span class="s1">breadcrumbs<span class="Apple-converted-space">              </span>: false # true, false (default)</span></p>
-<p class="p1"><span class="s1">words_per_minute <span class="Apple-converted-space">        </span>: 160</span></p>
-<p class="p1"><span class="s1">future <span class="Apple-converted-space">                  </span>: true</span></p>
-<p class="p1"><span class="s1">read_more<span class="Apple-converted-space">                </span>: "disabled" # if enabled, adds "Read more" links to excerpts</span></p>
-<p class="p1"><span class="s1">talkmap_link <span class="Apple-converted-space">            </span>: false #change to true to add link to talkmap on talks page</span></p>
-<p class="p1"><span class="s1">comments:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>provider <span class="Apple-converted-space">              </span>: # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>disqus:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>shortname<span class="Apple-converted-space">            </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>discourse:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>server <span class="Apple-converted-space">              </span>: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>facebook:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>appid<span class="Apple-converted-space">                </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>num_posts<span class="Apple-converted-space">            </span>: # 5 (default)</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>colorscheme<span class="Apple-converted-space">          </span>: # "light" (default), "dark"</span></p>
-<p class="p1"><span class="s1">staticman:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>allowedFields<span class="Apple-converted-space">          </span>: ['name', 'email', 'url', 'message']</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>branch <span class="Apple-converted-space">                </span>: "gh-pages" # "master", "gh-pages"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>commitMessage<span class="Apple-converted-space">          </span>: "New comment."</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>filename <span class="Apple-converted-space">              </span>: comment-{@timestamp}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>format <span class="Apple-converted-space">                </span>: "yml"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>moderation <span class="Apple-converted-space">            </span>: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>path <span class="Apple-converted-space">                  </span>: "_data/comments/{options.slug}"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>requiredFields <span class="Apple-converted-space">        </span>: ['name', 'email', 'message']</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>transforms:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>email<span class="Apple-converted-space">                </span>: "md5"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>generatedFields:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>date:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>type <span class="Apple-converted-space">              </span>: "date"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>options:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>format <span class="Apple-converted-space">          </span>: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"</span></p>
-<p class="p1"><span class="s1">atom_feed:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>path <span class="Apple-converted-space">                  </span>: # blank (default) uses feed.xml</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># SEO Related</span></p>
-<p class="p1"><span class="s1">google_site_verification :</span></p>
-<p class="p1"><span class="s1">bing_site_verification <span class="Apple-converted-space">  </span>:</span></p>
-<p class="p1"><span class="s1">alexa_site_verification<span class="Apple-converted-space">  </span>:</span></p>
-<p class="p1"><span class="s1">yandex_site_verification :</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Social Sharing</span></p>
-<p class="p1"><span class="s1">twitter:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>username <span class="Apple-converted-space">              </span>: &amp;amp;twitter</span></p>
-<p class="p1"><span class="s1">facebook:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>username <span class="Apple-converted-space">              </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>app_id <span class="Apple-converted-space">                </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>publisher<span class="Apple-converted-space">              </span>:</span></p>
-<p class="p1"><span class="s1">og_image <span class="Apple-converted-space">                </span>:<span class="Apple-converted-space">  </span># Open Graph/Twitter default site image</span></p>
-<p class="p1"><span class="s1"># For specifying social profiles</span></p>
-<p class="p1"><span class="s1"># - https://developers.google.com/structured-data/customize/social-profiles</span></p>
-<p class="p1"><span class="s1">social:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>type <span class="Apple-converted-space">                  </span>: # Person or Organization (defaults to Person)</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>name <span class="Apple-converted-space">                  </span>: # If the user or organization name differs from the site's name</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>links: # An array of links to social media profiles</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Analytics</span></p>
-<p class="p1"><span class="s1">analytics:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>provider <span class="Apple-converted-space">              </span>:<span class="Apple-converted-space">  </span>"google-universal" # false (default), "google", "google-universal", "custom"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>google:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>tracking_id<span class="Apple-converted-space">          </span>:</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Site Author</span></p>
-<p class="p1"><span class="s1">author:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>name <span class="Apple-converted-space">            </span>: "</span><span class="s2">王连生</span><span class="s1">"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>avatar <span class="Apple-converted-space">          </span>: "profile.png"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>bio<span class="Apple-converted-space">              </span>: "</span><span class="s2">教授</span><span class="s1">"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>location <span class="Apple-converted-space">        </span>: #"Location"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>employer <span class="Apple-converted-space">        </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>pubmed <span class="Apple-converted-space">          </span>: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>googlescholar<span class="Apple-converted-space">    </span>: #"http://yourfullgooglescholarurl.com"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>email<span class="Apple-converted-space">            </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>researchgate <span class="Apple-converted-space">    </span>:<span class="Apple-converted-space">  </span># example: "https://www.researchgate.net/profile/yourprofile"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>uri<span class="Apple-converted-space">              </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>bitbucket<span class="Apple-converted-space">        </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>codepen<span class="Apple-converted-space">          </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>dribbble <span class="Apple-converted-space">        </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>flickr <span class="Apple-converted-space">          </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>facebook <span class="Apple-converted-space">        </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>foursquare <span class="Apple-converted-space">      </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>github <span class="Apple-converted-space">          </span>: # "academicpages"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>google_plus<span class="Apple-converted-space">      </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>keybase<span class="Apple-converted-space">          </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>instagram<span class="Apple-converted-space">        </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>impactstory<span class="Apple-converted-space">      </span>: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>lastfm <span class="Apple-converted-space">          </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>linkedin <span class="Apple-converted-space">        </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>orcid<span class="Apple-converted-space">            </span>: #"http://orcid.org/yourorcidurl"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>pinterest<span class="Apple-converted-space">        </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>soundcloud <span class="Apple-converted-space">      </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>stackoverflow<span class="Apple-converted-space">    </span>: # http://stackoverflow.com/users/123456/username</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>steam<span class="Apple-converted-space">            </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>tumblr <span class="Apple-converted-space">          </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>twitter<span class="Apple-converted-space">          </span>: #"replacethistwitterhandle"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>vine <span class="Apple-converted-space">            </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>weibo<span class="Apple-converted-space">            </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>xing <span class="Apple-converted-space">            </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>youtube<span class="Apple-converted-space">          </span>:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>wikipedia<span class="Apple-converted-space">        </span>:</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Reading Files</span></p>
-<p class="p1"><span class="s1">include:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- .htaccess</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- _pages</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- files</span></p>
-<p class="p1"><span class="s1">exclude:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- "*.sublime-project"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- "*.sublime-workspace"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- .asset-cache</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- .bundle</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- .jekyll-assets-cache</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- .sass-cache</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- CHANGELOG</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- Capfile</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- Gemfile</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- Gruntfile.js</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- LICENSE</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- README</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- Rakefile</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- assets/js/_main.js</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- assets/js/plugins</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- assets/js/vendor</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- config</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- gulpfile.js</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- log</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- node_modules</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- package.json</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- tmp</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- vendor</span></p>
-<p class="p1"><span class="s1">keep_files:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- .git</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- .svn</span></p>
-<p class="p1"><span class="s1">encoding: "utf-8"</span></p>
-<p class="p1"><span class="s1">markdown_ext: "markdown,mkdown,mkdn,mkd,md"</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Conversion</span></p>
-<p class="p1"><span class="s1">markdown: kramdown</span></p>
-<p class="p1"><span class="s1">highlighter: rouge</span></p>
-<p class="p1"><span class="s1">lsi: false</span></p>
-<p class="p1"><span class="s1">excerpt_separator: "\n\n"</span></p>
-<p class="p1"><span class="s1">incremental: false</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Markdown Processing</span></p>
-<p class="p1"><span class="s1">kramdown:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>input: GFM</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>hard_wrap: false</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>auto_ids: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>footnote_nr: 1</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>entity_output: as_char</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>toc_levels: 1..6</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>smart_quotes: lsquo,rsquo,ldquo,rdquo</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>enable_coderay: false</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Collections</span></p>
-<p class="p1"><span class="s1">collections:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>teaching:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>output: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>permalink: /:collection/:path/</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>publications:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>output: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>permalink: /:collection/:path/</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>portfolio:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>output: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>permalink: /:collection/:path/</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>talks:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>output: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>permalink: /:collection/:path/</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Defaults</span></p>
-<p class="p1"><span class="s1">defaults:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span># _posts</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- scope:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>path: ""</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>type: posts</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>values:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>layout: single</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>author_profile: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>read_time: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>comments: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>share: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>related: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span># _pages</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- scope:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>path: ""</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>type: pages</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>values:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>layout: single</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>author_profile: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span># _teaching</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- scope:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>path: ""</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>type: teaching</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>values:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>layout: single</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>author_profile: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>share: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>comments: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span># _publications</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- scope:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>path: ""</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>type: publications</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>values:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>layout: single</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>author_profile: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>share: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>comments: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span># _portfolio</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span># - scope:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>#<span class="Apple-converted-space">    </span>path: ""</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">   </span># <span class="Apple-converted-space">  </span>type: portfolio</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>#values:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">     </span># layout: single</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>#author_profile: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>#share: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>#comment: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span># _talks</span></p>
-<p class="p1"><span class="s1">#<span class="Apple-converted-space">  </span>- scope:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span># <span class="Apple-converted-space">    </span>path: ""</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span># <span class="Apple-converted-space">    </span>type: talks</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span># <span class="Apple-converted-space">  </span>values:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span># <span class="Apple-converted-space">    </span>layout: talk</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>#<span class="Apple-converted-space">    </span>author_profile: true</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>#<span class="Apple-converted-space">    </span>share: true</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Sass/SCSS</span></p>
-<p class="p1"><span class="s1">sass:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>sass_dir: _sass</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Outputting</span></p>
-<p class="p1"><span class="s1">permalink: /:categories/:title/</span></p>
-<p class="p1"><span class="s1"># paginate: 5 # amount of posts to show</span></p>
-<p class="p1"><span class="s1"># paginate_path: /page:num/</span></p>
-<p class="p1"><span class="s1">timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Plugins</span></p>
-<p class="p1"><span class="s1">plugins:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- jekyll-paginate</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- jekyll-sitemap</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- jekyll-gist</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- jekyll-feed</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- jekyll-redirect-from</span></p>
-<p class="p1"><span class="s1"># mimic GitHub Pages with --safe</span></p>
-<p class="p1"><span class="s1">whitelist:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- jekyll-paginate</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- jekyll-sitemap</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- jekyll-gist</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- jekyll-feed</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>- jemoji</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># Archives</span></p>
-<p class="p1"><span class="s1">#<span class="Apple-converted-space">  </span>Type</span></p>
-<p class="p1"><span class="s1">#<span class="Apple-converted-space">  </span>- GitHub Pages compatible archive pages built with Liquid ~&amp;gt; type: liquid (default)</span></p>
-<p class="p1"><span class="s1">#<span class="Apple-converted-space">  </span>- Jekyll Archives plugin archive pages ~&amp;gt; type: jekyll-archives</span></p>
-<p class="p1"><span class="s1">#<span class="Apple-converted-space">  </span>Path (examples)</span></p>
-<p class="p1"><span class="s1">#<span class="Apple-converted-space">  </span>- Archive page should exist at path when using Liquid method or you can</span></p>
-<p class="p1"><span class="s1">#<span class="Apple-converted-space">    </span>expect broken links (especially with breadcrumbs enabled)</span></p>
-<p class="p1"><span class="s1">#<span class="Apple-converted-space">  </span>- &amp;lt;base_path&amp;gt;/tags/my-awesome-tag/index.html ~&amp;gt; path: /tags/</span></p>
-<p class="p1"><span class="s1">#<span class="Apple-converted-space">  </span>- &amp;lt;base_path/categories/my-awesome-category/index.html ~&amp;gt; path: /categories/</span></p>
-<p class="p1"><span class="s1">#<span class="Apple-converted-space">  </span>- &amp;lt;base_path/my-awesome-category/index.html ~&amp;gt; path: /</span></p>
-<p class="p1"><span class="s1">category_archive:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>type: liquid</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>path: /categories/</span></p>
-<p class="p1"><span class="s1">tag_archive:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>type: liquid</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>path: /tags/</span></p>
-<p class="p1"><span class="s1"># https://github.com/jekyll/jekyll-archives</span></p>
-<p class="p1"><span class="s1"># jekyll-archives:</span></p>
-<p class="p1"><span class="s1"># <span class="Apple-converted-space">  </span>enabled:</span></p>
-<p class="p1"><span class="s1"># <span class="Apple-converted-space">    </span>- categories</span></p>
-<p class="p1"><span class="s1"># <span class="Apple-converted-space">    </span>- tags</span></p>
-<p class="p1"><span class="s1"># <span class="Apple-converted-space">  </span>layouts:</span></p>
-<p class="p1"><span class="s1"># <span class="Apple-converted-space">    </span>category: archive-taxonomy</span></p>
-<p class="p1"><span class="s1"># <span class="Apple-converted-space">    </span>tag: archive-taxonomy</span></p>
-<p class="p1"><span class="s1"># <span class="Apple-converted-space">  </span>permalinks:</span></p>
-<p class="p1"><span class="s1"># <span class="Apple-converted-space">    </span>category: /categories/:name/</span></p>
-<p class="p1"><span class="s1"># <span class="Apple-converted-space">    </span>tag: /tags/:name/</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"># HTML Compression</span></p>
-<p class="p1"><span class="s1"># - http://jch.penibelst.de/</span></p>
-<p class="p1"><span class="s1">compress_html:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>clippings: all</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>ignore:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>envs: development</span></p>
-<p class="p1"><span class="s1">&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</span></p>
-</body>
-</html>
-Ytext/htmlUutf-8_file:///index.htmlP    ( : P n } ��!�+�1�F                           �G
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            :
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "gh-pages" # "master", "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social Sharing
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+
+# Analytics
+analytics:
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+
+
+# Site Author
+author:
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
