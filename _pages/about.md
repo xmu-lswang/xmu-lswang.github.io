@@ -30,7 +30,9 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
-✔️ 一篇论文被ICLR2023接收！
+✔️ 一篇论文被CVPR 2023接收！
+
+✔️ 一篇论文被ICLR 2023接收！
 
 ✔️ 两篇论文被期刊IEEE Transactions on Medical Imaging接收！
 
