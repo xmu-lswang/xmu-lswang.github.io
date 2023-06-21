@@ -30,6 +30,14 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇论文被期刊IEEE Transactions on Image Processing接收！
+
+✔️ 一篇病理论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 四篇论文被MICCAI2023提前接收！
+
+✔️ 一篇病理论文被期刊IEEE Transactions on Medical Imaging接收！
+
 ✔️ 一篇论文被CVPR 2023接收！
 
 ✔️ 一篇论文被ICLR 2023接收！
