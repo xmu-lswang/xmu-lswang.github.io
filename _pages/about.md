@@ -30,6 +30,8 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 实验室学生团队在IEEE国际生物医学成像研讨会（ISBI 2023）SMILE-UHURA Challenge超高分辨率磁共振图像小血管分割国际比赛（主办方德国马格德堡大学）中，获得了全部三项冠军！
+
 ✔️ 一篇论文被期刊IEEE Transactions on Image Processing接收！
 
 ✔️ 一篇病理论文被期刊IEEE Transactions on Medical Imaging接收！
