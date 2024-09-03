@@ -36,6 +36,8 @@ NEWS
 
 ✔️ 一篇可解释肿瘤多组学预训练论文被Genome Biology接收！
 
+✔️ 五篇论文被MICCAI2023接收！
+
 ✔️ 一篇结合视觉语言交互的病理图像论文被CVPR 2024接收！
 
 ✔️ 一篇罕见病分类论文被期刊Medical Image Analysis接收！
