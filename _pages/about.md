@@ -13,7 +13,7 @@ redirect_from:
 
 主要研究方向：
 
-机器学习、深度学习、数据挖掘、大数据应用，以及在医学数据、金融数据分析中的应用。
+机器学习、深度学习、大模型、数据挖掘、大数据应用，以及在医学数据、金融数据分析中的应用。
 
 
 **研究组常年招收本科生、硕士/博士研究生，以及博士后。欢迎感兴趣的同学邮件联系。**
@@ -30,6 +30,32 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇追溯不明来源肿瘤原发灶的论文被Cell Reports Methods接收！
+
+✔️ 一篇RGB-D视频检测论文被IJCV接收！
+
+✔️ 一篇可解释肿瘤多组学预训练论文被Genome Biology接收！
+
+✔️ 一篇结合视觉语言交互的病理图像论文被CVPR 2024接收！
+
+✔️ 一篇罕见病分类论文被期刊Medical Image Analysis接收！
+
+✔️ 一篇肿瘤分割论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 一篇模态异质性联邦学习医学图像分割论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 一篇病理图像分类统一框架论文被AAAI 2024接收！
+
+✔️ 一篇联邦学习多模态论文被AAAI 2024接收！
+
+✔️ 一篇医学图像分割论文被期刊Medical Image Analysis接收！
+
+✔️ 一篇联邦学习医学图像分割论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 一篇肿瘤分割论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 六篇论文被MICCAI2023接收！
+
 ✔️ 实验室学生团队在IEEE国际生物医学成像研讨会（ISBI 2023）SMILE-UHURA Challenge超高分辨率磁共振图像小血管分割国际比赛（主办方德国马格德堡大学）中，获得了全部三项冠军！
 
 ✔️ 一篇论文被期刊IEEE Transactions on Image Processing接收！
