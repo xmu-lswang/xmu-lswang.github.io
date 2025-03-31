@@ -30,6 +30,20 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇CT报告生成论文被IPMI 2025接收！
+
+✔️ 一篇病理图像分析图网络论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 一篇异质性多模态联邦学习论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 一篇Modality-aware Distillation Network论文被期刊IEEE Transactions on Biomedical Engineering (TBME)接收！
+
+✔️ 一篇Dynamic Entity-Masked Graph Diffusion Model论文被AAAI 2025接收！
+
+✔️ 一篇Weakly Labeled Data论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 一篇非移位骨折诊断论文被期刊Medical Image Analysis接收！
+
 ✔️ 一篇追溯不明来源肿瘤原发灶的论文被Cell Reports Methods接收！
 
 ✔️ 一篇RGB-D视频检测论文被IJCV接收！
