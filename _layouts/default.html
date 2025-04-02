@@ -29,3 +29,21 @@ layout: compress
 
   </body>
 </html>
+<footer>
+  <!-- 原有页脚内容 -->
+
+  <!-- 添加计数器显示区域 -->
+  <div style="text-align: center; margin-top: 20px;">
+    访问量：<span id="counter">加载中...</span>
+  </div>
+
+  <!-- CountAPI 访问计数脚本 -->
+  <script>
+    fetch('https://api.countapi.xyz/hit/https://xmu-lswang.github.io//visits')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('counter').innerText = data.value;
+      })
+      .catch(err => console.error('计数失败：', err));
+  </script>
+</footer>
