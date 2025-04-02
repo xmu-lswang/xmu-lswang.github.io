@@ -27,25 +27,5 @@ layout: compress
 
     {% include scripts.html %}
 
-    <!-- 访问计数展示 -->
-<div id="visit-counter">总访问次数：加载中...</div>
-
-<script>
-  // CounterAPI配置
-  const namespace = 'xmu-lswang';  // 自定义命名空间（建议用GitHub用户名）
-  const key = 'github-io-counter'; // 自定义计数器标识
-  const apiUrl = `https://api.counterapi.dev/v1/${namespace}/${key}`;
-
-  // 获取并更新计数
-  fetch(apiUrl)
-    .then(response => response.json())
-    .then(data => {
-      const count = data.value || 0;
-      document.getElementById('visit-counter').textContent = `总访问次数：${count}`;
-      // 自动递增计数
-      fetch(`${apiUrl}/up`, { method: 'POST' });
-    })
-    .catch(error => console.error('计数器加载失败:', error));
-</script>
   </body>
 </html>
