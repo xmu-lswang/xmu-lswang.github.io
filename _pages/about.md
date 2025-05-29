@@ -18,7 +18,7 @@ redirect_from:
 
 **研究组常年招收本科生、硕士/博士研究生，以及博士后。欢迎感兴趣的同学邮件联系。**
 
-(**** ****)
+(***V***)
 
 Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
