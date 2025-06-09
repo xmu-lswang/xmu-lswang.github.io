@@ -32,6 +32,10 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇高效医学视觉语言对齐算法论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 一篇胃炎可解释病理模型论文被Patterns(Cell子刊)接收！
+
 ✔️ 一篇CT报告生成论文被IPMI 2025接收！
 
 ✔️ 一篇病理图像分析图网络论文被期刊IEEE Transactions on Medical Imaging接收！
