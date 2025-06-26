@@ -32,6 +32,10 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇可解释病理论文被ICCV 2025接收！
+
+✔️ 10篇论文(病理、大模型、报告生成)被MICCAI 2025接收！
+
 ✔️ 一篇高效医学视觉语言对齐算法论文被期刊IEEE Transactions on Medical Imaging接收！
 
 ✔️ 一篇胃炎可解释病理模型论文被Patterns(Cell旗下)接收！
