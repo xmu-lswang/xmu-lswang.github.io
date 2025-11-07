@@ -32,6 +32,14 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇病理虚拟染色（FFPE到HE）论文被期刊IEEE Transactions on Medical Imaging接收！
+
+✔️ 一篇病理虚拟染色算法论文被NeurIPS 2025接收！
+
+✔️ 一篇多模态脑肿瘤论文被期刊Medical Image Analysis接收！
+
+✔️ 一篇肠癌CT大模型论文被Advanced Science接收！
+
 ✔️ 一篇可解释病理论文被ICCV 2025接收！
 
 ✔️ 10篇论文(病理、大模型、报告生成)被MICCAI 2025接收！
