@@ -32,6 +32,13 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 一篇交叉注意力学习的病理图像分类论文被期刊Medical Image Analysis接收！
+
+✔️ 一篇医学图像持续学习论文被CVPR 2026接收！
+
+✔️ 三篇论文被AAAI 2026接收！
+   分别为小样本全切片病理图像分类算法Libra-MIL、针对相似案例检索的临床自适应推理框架CRAF、脑部MRI无监督异常检测算法FDP。
+
 ✔️ 一篇病理虚拟染色（FFPE到HE）论文被期刊IEEE Transactions on Medical Imaging接收！
 
 ✔️ 一篇病理虚拟染色算法论文被NeurIPS 2025接收！
