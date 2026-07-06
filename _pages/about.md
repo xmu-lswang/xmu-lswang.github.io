@@ -32,6 +32,12 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 1篇论文(报告生成)被ECCV 2026接收！
+
+✔️ 3篇论文被MICCAI 2026接收！
+
+✔️ 一篇病理图像分析论文被期刊Medical Image Analysis接收！
+
 ✔️ 一篇交叉注意力学习的病理图像分类论文被期刊Medical Image Analysis接收！
 
 ✔️ 一篇医学图像持续学习论文被CVPR 2026接收！
