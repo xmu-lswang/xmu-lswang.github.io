@@ -32,9 +32,11 @@ Email: [lswang@xmu.edu.cn](lswang@xmu.edu.cn)
 
 NEWS
 ======
+✔️ 5篇论文(病理虚拟染色、多模态病理大模型的多尺度理解、病历检索、CT生成、医学图像联邦学习)被NeurIPS 2026接收！
+
 ✔️ 1篇论文(报告生成)被ECCV 2026接收！
 
-✔️ 3篇论文被MICCAI 2026接收！
+✔️ 3篇论文(病理图像分析、三维医学视觉文本问答)被MICCAI 2026接收！
 
 ✔️ 一篇病理图像分析论文被期刊Medical Image Analysis接收！
 
